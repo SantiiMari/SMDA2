@@ -1,1 +1,2 @@
-# SMDA2
+# Game-of-Clicky
+In this game, 
